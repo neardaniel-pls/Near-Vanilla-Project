@@ -9,8 +9,14 @@ These are the core ideas behind this modlist:
 2. **Stability.** This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
 3. **Beauty.** Skyrim but in 2021 with that next gen feel to it.
 
-You can find the **full modlist** of Near Vanilla Project [here](https://github.com/neardaniel-pls/Near-Vanilla-Project/blob/main/modlist.md). If you feel like this modlist is for you, then go right ahead and click [here](https://neardaniel.wixsite.com/website) to go straight to the **installation guide**.
-However, if you want to know what I have changed over the past times feel free to check it out [here](https://github.com/neardaniel-pls/Near-Vanilla-Project/blob/main/changelog.md).
+
+**Full modlist** of Near Vanilla Project [here](https://github.com/neardaniel-pls/Near-Vanilla-Project/blob/main/modlist.md).
+
+**Installation guide** [here](https://neardaniel.wixsite.com/website)
+
+**To-do list** [here](https://github.com/neardaniel-pls/Near-Vanilla-Project/blob/main/todo.md)
+
+**Changelog** [here](https://github.com/neardaniel-pls/Near-Vanilla-Project/blob/main/changelog.md).
 
 
 ## Special People

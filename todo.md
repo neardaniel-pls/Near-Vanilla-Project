@@ -1,7 +1,7 @@
 
 # Todo
 
-## What I intend to accomplish next update
+## What I intend to accomplish until update 1.0
 
 - Update website (it's outdated since most of it was made in march);
 - Review some mods to add to the collection;

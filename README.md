@@ -17,7 +17,7 @@ However, if you want to know what I have changed over the past times feel free t
 
 I also want to take a moment to thank all my friends over the past year in this modding journey who helped a lot, not just with modding but also with life in general.
 
-Thanks Mahi, Prick, Lavi, Epson, Vic... and many others.
+Thanks Mahi, Prick, Lavi, Ewson, Vic... and many others.
 Thank you to the people at Stg_Gimlinho discord server and at Prick's, they also helped me since the beginning.
 
 

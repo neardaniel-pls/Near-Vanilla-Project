@@ -1,4 +1,4 @@
-# **Near Vanilla Project**
+# **Near Vanilla Project 0.0.2**
 
 ## **Introduction**
 

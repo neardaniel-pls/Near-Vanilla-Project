@@ -12,7 +12,7 @@ These are the core ideas behind this modlist:
 
 **Full modlist** of Near Vanilla Project [here](https://github.com/neardaniel-pls/Near-Vanilla-Project/blob/main/modlist.md).
 
-**Installation guide** [here](https://neardaniel.wixsite.com/website)
+**Installation guide** [here](https://neardaniel-pls.github.io/Near-Vanilla-Project/)
 
 **To-do list** [here](https://github.com/neardaniel-pls/Near-Vanilla-Project/blob/main/todo.md)
 

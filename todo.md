@@ -9,6 +9,7 @@
     - Remove WryeBash (maybe);
     - Move Converting Mod tutorial somehwere else;
     - Move Master Cleaning to the top;
+    - Actually I might not do anything :D
 
 
 ## What I intend to accomplish until update 1.0

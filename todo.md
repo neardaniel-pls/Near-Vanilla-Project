@@ -14,7 +14,7 @@
 
 ## What I intend to accomplish until update 1.0
 
-- Update website (it's outdated since most of it was made in march);
+- Update website (it's outdated since most of it was made in march 2021);
 - Review some mods to add to the collection;
 - Add section explaining why said mod is part of the list;
 - Add section to customize some mods

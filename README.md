@@ -10,6 +10,8 @@ These are the core ideas behind this modlist:
 3. **Beauty.** Skyrim but in 2021 with that next gen feel to it.
 
 
+**Test Website** https://neardaniel.wixsite.com/website
+
 **Full modlist** of Near Vanilla Project [here](https://github.com/neardaniel-pls/Near-Vanilla-Project/blob/main/modlist.md).
 
 **Installation guide** [here](https://neardaniel-pls.github.io/Near-Vanilla-Project/)
